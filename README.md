@@ -47,6 +47,11 @@ The dataset used in this analysis contains multiple variables across different c
    ```sh
    jupyter notebook Investigate_Dataset.ipynb
 
-   
+## Results and Insights
+This project explores the dataset to identify trends, correlations, and potential outliers. The main findings include statistical summaries, visualized patterns using charts, and insights into the relationships between different variables. Key insights are documented in the notebook to facilitate further discussion and exploration.
 
+## Contributing
+Contributions are welcome! If you have suggestions for improving the project or adding new features, please fork the repository and submit a pull request. Bug reports, feature requests, and other feedback are also encouraged.
 
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
