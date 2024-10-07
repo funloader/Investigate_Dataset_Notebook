@@ -36,4 +36,17 @@ The dataset used in this analysis contains multiple variables across different c
 ## How to Use
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/Dataset_Investigation.git
+   git clone https://github.com/funloader/Investigate_Dataset_Notebook.git
+2. Navigate to the project directory:
+    ```sh
+    cd Investigate_Dataset_Notebook
+3. Install the required libraries (preferably in a virtual environment):
+    ```sh
+    pip install -r requirements.txt
+4. Open the notebook in Jupyter:
+   ```sh
+   jupyter notebook Investigate_Dataset.ipynb
+
+   
+
+
